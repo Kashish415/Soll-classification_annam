@@ -31,6 +31,6 @@ This repository contains my solution for **Part 1** of the Soil Image Classifica
 
   ## Result
 
-- Achieved **minimum per-class F1-score of 0.9655 on validation set
+- Achieved minimum per-class F1-score of 0.9655 on validation set
 - Generated submission for Kaggle as per competition rules
 
